@@ -1,0 +1,4 @@
+Run on WSL
+
+1. g++ -o executableFilename -fopenmp <filename>.cpp
+2. ./executableFilename
